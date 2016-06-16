@@ -4,7 +4,7 @@
 # 邯郸金世达科技  高胜
 
 """
-启动
+启动.
 """
 from flask.ext.bootstrap import Bootstrap
 from flask import Flask,render_template
